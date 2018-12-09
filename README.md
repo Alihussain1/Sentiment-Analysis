@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+Text sentiment Analysis for IMDB movie review dataset using LSTM
